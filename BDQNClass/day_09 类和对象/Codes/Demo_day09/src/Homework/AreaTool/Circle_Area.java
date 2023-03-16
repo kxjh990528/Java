@@ -1,0 +1,32 @@
+package Homework.AreaTool;
+
+import java.util.Scanner;
+
+/**
+ * @Author: 林宇扬
+ * @Date: 2023/2/20 10:22
+ * @Java version: 1.8.0_361
+ * @Description:4 . 请用面向对象的方式求圆的面积。[重点理解属性的作用:从类外接收信息到类的内部]
+ * 要求: 定义一个工具类Tool
+ *       属性： 半径 r
+ *       方法:显示该半径对应圆的积为多少 show
+ *   效果如下:
+ *   请输入圆的半径:2
+ * 半径为2圆的面积为:12.56
+ * 是否是继续操作y|n:
+ */
+public class Circle_Area {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        Tool tool = new Tool();
+        String choose = "";
+        do {
+            System.out.print("请输入圆的半径：");
+            tool.r = input.nextInt();
+            tool.show(tool.r);
+            System.out.print("是否是继续操作(y|n)：");
+            choose = input.next();
+        }while (choose.equals("y"));
+    }
+}

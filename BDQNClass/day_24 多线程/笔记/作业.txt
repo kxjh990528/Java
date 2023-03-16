@@ -1,0 +1,22 @@
+1.理解多线程的概念
+   交替
+
+2.(重点)分别使用线程输出1-10的数
+   >>利用继承threa
+
+  >>实现runable接口
+
+
+   >>实现runable
+      new Thread(new Runnable() {
+            @Override
+            public void run() {
+                for (int i = 1; i <=10; i++) {
+                    System.out.println(Thread.currentThread().getName()+"="+i);
+                }
+            }
+        }).start();
+
+5.背五种状态
+
+

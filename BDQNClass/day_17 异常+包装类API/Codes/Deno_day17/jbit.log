@@ -1,0 +1,27 @@
+2023-03-03 14:44:31Demo.Demo4.main(Demo4.java:31) Demo4.java INFO / by zero
+2023-03-03 14:44:31Demo.Demo4.main(Demo4.java:32) Demo4.java DEBUG 错误信息
+2023-03-03 14:44:31Demo.Demo4.main(Demo4.java:33) Demo4.java ERROR 错误信息
+2023-03-03 14:44:31Demo.Demo4.main(Demo4.java:34) Demo4.java WARN 错误信息
+2023-03-03 15:22:44Demo.Demo4.main(Demo4.java:32) Demo4.java DEBUG 错误信息
+2023-03-03 15:22:44Demo.Demo4.main(Demo4.java:33) Demo4.java ERROR 错误信息
+2023-03-03 15:22:44Demo.Demo4.main(Demo4.java:34) Demo4.java WARN 错误信息
+2023-03-03 15:23:17Demo.Demo4.main(Demo4.java:31) Demo4.java INFO / by zero
+2023-03-03 15:23:35Demo.Demo4.main(Demo4.java:31) Demo4.java INFO / by zero
+2023-03-03 15:23:35Demo.Demo4.main(Demo4.java:32) Demo4.java DEBUG 错误信息
+2023-03-03 15:23:45Demo.Demo4.main(Demo4.java:31) Demo4.java INFO / by zero
+2023-03-03 15:23:45Demo.Demo4.main(Demo4.java:32) Demo4.java DEBUG 错误信息
+2023-03-03 15:23:45Demo.Demo4.main(Demo4.java:33) Demo4.java ERROR 错误信息
+2023-03-03 15:23:55Demo.Demo4.main(Demo4.java:31) Demo4.java INFO / by zero
+2023-03-03 15:23:55Demo.Demo4.main(Demo4.java:32) Demo4.java DEBUG 错误信息
+2023-03-03 15:23:55Demo.Demo4.main(Demo4.java:33) Demo4.java ERROR 错误信息
+2023-03-03 15:23:55Demo.Demo4.main(Demo4.java:34) Demo4.java WARN 错误信息
+2023-03-03 15:43:14Homework.ArrayIndexOutWithLog4j.main(ArrayIndexOutWithLog4j.java:23) ArrayIndexOutWithLog4j.java INFO 5
+2023-03-03 15:43:14Homework.ArrayIndexOutWithLog4j.main(ArrayIndexOutWithLog4j.java:24) ArrayIndexOutWithLog4j.java DEBUG 错误信息
+2023-03-03 15:43:14Homework.ArrayIndexOutWithLog4j.main(ArrayIndexOutWithLog4j.java:25) ArrayIndexOutWithLog4j.java ERROR 错误信息
+2023-03-03 15:43:14Homework.ArrayIndexOutWithLog4j.main(ArrayIndexOutWithLog4j.java:26) ArrayIndexOutWithLog4j.java WARN 错误信息
+2023-03-03 15:43:32Homework.ArrayIndexOutWithLog4j.main(ArrayIndexOutWithLog4j.java:23) ArrayIndexOutWithLog4j.java INFO 5
+2023-03-03 15:43:32Homework.ArrayIndexOutWithLog4j.main(ArrayIndexOutWithLog4j.java:24) ArrayIndexOutWithLog4j.java ERROR 错误信息
+2023-03-03 15:43:47Homework.ArrayIndexOutWithLog4j.main(ArrayIndexOutWithLog4j.java:24) ArrayIndexOutWithLog4j.java INFO 5
+2023-03-03 15:43:47Homework.ArrayIndexOutWithLog4j.main(ArrayIndexOutWithLog4j.java:25) ArrayIndexOutWithLog4j.java ERROR 错误信息
+2023-03-03 15:43:54Homework.ArrayIndexOutWithLog4j.main(ArrayIndexOutWithLog4j.java:24) ArrayIndexOutWithLog4j.java INFO 5
+2023-03-03 15:43:54Homework.ArrayIndexOutWithLog4j.main(ArrayIndexOutWithLog4j.java:25) ArrayIndexOutWithLog4j.java ERROR 错误信息

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ATM/ATM.iml" filepath="$PROJECT_DIR$/ATM/ATM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Codes.iml" filepath="$PROJECT_DIR$/.idea/Codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GgreetingByHours/GgreetingByHours.iml" filepath="$PROJECT_DIR$/GgreetingByHours/GgreetingByHours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniCalculator/MiniCalculator.iml" filepath="$PROJECT_DIR$/MiniCalculator/MiniCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiDiscount/MultiDiscount.iml" filepath="$PROJECT_DIR$/MultiDiscount/MultiDiscount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Orders/Orders.iml" filepath="$PROJECT_DIR$/Orders/Orders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pages/Pages.iml" filepath="$PROJECT_DIR$/Pages/Pages.iml" />
+    </modules>
+  </component>
+</project>
