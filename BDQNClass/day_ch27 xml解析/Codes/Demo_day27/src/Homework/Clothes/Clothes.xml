@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Clothes>
+    <size size="S">
+
+        <height><![CDATA[身高<165]]></height>
+    </size>
+    <size size="M">
+        <height><![CDATA[165<身高<170]]></height>
+    </size>
+    <size size="L">
+        <height>170&lt;身高&lt;175</height>
+    </size>
+    <size size="XL">
+        <height>175&lt;身高&lt;180</height>
+    </size>
+    <size size="XXL">
+        <height>180&lt;身高&lt;185</height>
+    </size>
+</Clothes>
